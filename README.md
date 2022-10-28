@@ -4,7 +4,13 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 
 ## Projects
+1.  [Data Visualisation Projects](https://github.com/Kens3i/Excel-Webscraping-Projects#Data-Viz-Projects)
+2.  [Web-Scraping Projects](https://github.com/Kens3i/Excel-Webscraping-Projects#Web-Scraping-Projects)
+3.  [Other Projects](https://github.com/Kens3i/Excel-Webscraping-Projects#Other-Projects)
+<br>
+<br>
 
+## Data-Viz-Projects
 
 **[Interactive Fashion Sales Dashboard](https://github.com/Kens3i/ExcelSalesDashboard)**
 <br>
@@ -28,7 +34,9 @@ Link: [Click Here](https://github.com/Kens3i/DynamicTechSalesDashboard)
 
 <br>
 <br>
+<br>
 
+## Web-Scraping-Projects
 
 **[Amazon Multipage Scrapper](https://github.com/Kens3i/Amazon-Multipage-Scrapper-using-Selenium-and-Beautiful-Soup)**
 <br>
@@ -66,6 +74,9 @@ Link: [Click Here](https://github.com/Kens3i/IMDB-Scrapper-Using-Selenium-and-Be
 
 <br>
 <br>
+<br>
+
+## Other-Projects
 
 **[The Stock Prediction App](https://github.com/Kens3i/The-Stock-Prediction-App)**
 <br>
