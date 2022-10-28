@@ -8,7 +8,6 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 2.  [Web-Scraping Projects](https://github.com/Kens3i/Excel-Webscraping-Projects#Web-Scraping-Projects)
 3.  [Other Projects](https://github.com/Kens3i/Excel-Webscraping-Projects#Other-Projects)
 <br>
-<br>
 
 ## Data-Viz-Projects
 
@@ -32,7 +31,6 @@ This is a **dynamic interactive dashbord** which shows the sales data of a hypot
 
 Link: [Click Here](https://github.com/Kens3i/DynamicTechSalesDashboard)
 
-<br>
 <br>
 <br>
 
@@ -72,7 +70,6 @@ This program has 2 parts. The first part is a automation bot made with the help 
 
 Link: [Click Here](https://github.com/Kens3i/IMDB-Scrapper-Using-Selenium-and-Beautiful-Soup)
 
-<br>
 <br>
 <br>
 
