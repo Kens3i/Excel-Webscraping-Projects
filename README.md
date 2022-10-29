@@ -6,7 +6,8 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 ## Projects
 1.  [Data Visualisation Projects](https://github.com/Kens3i/Excel-Webscraping-Projects#Data-Viz-Projects)
 2.  [Web-Scraping Projects](https://github.com/Kens3i/Excel-Webscraping-Projects#Web-Scraping-Projects)
-3.  [Other Projects](https://github.com/Kens3i/Excel-Webscraping-Projects#Other-Projects)
+3.  [Data Cleaning Projects](https://github.com/Kens3i/Excel-Webscraping-Projects#Data-Cleaning-Projects)
+4.  [Other Projects](https://github.com/Kens3i/Excel-Webscraping-Projects#Other-Projects)
 <br>
 
 ## Data-Viz-Projects
@@ -69,6 +70,30 @@ Link: [Click Here](https://github.com/Kens3i/Indeed-Multipage-Job-Scrapper)
 This program has 2 parts. The first part is a automation bot made with the help of Selenium which opens a Google Chrome tab and navigates to the IMDB home page. Then it goes to the advanced search and selects different parameters to filter some movies. Then in the 2nd part I developed a web-scrapper which scraps the data of those movies like the title, the year in which it got released, the rating of the movie, etc.
 
 Link: [Click Here](https://github.com/Kens3i/IMDB-Scrapper-Using-Selenium-and-Beautiful-Soup)
+
+<br>
+<br>
+
+## Data-Cleaning-Projects
+
+**[Clothing Sales Data Cleaning Using Excel Power Query](https://github.com/Kens3i/Clothing-Sales-Data-Cleaning-Using-Excel-Power-Query)**
+<br>
+![](https://github.com/Kens3i/Clothing-Sales-Data-Cleaning-Using-Excel-Power-Query/blob/main/Images/Clothing%20Sales%20Data%20Cleaning.png?raw=true)
+<br>
+I have taken an example of **Clothing Sales Data** which consists of **4 States with 5 Categories**. In this small project, I have **cleaned the raw data with MS Excel** so that anyone can work on it and **make sense of the data**. Here I have used **formulas**, **power-query** and some popular **data-cleaning techniques** to clean the data.
+
+Link: [Click Here](https://github.com/Kens3i/Clothing-Sales-Data-Cleaning-Using-Excel-Power-Query)
+
+<br>
+<br>
+
+**[Garage Service Sales Data Cleaning + Merging Using Eexcel](https://github.com/Kens3i/Garage-Sales-Data-Cleaning-And-Merging-With-Excel)**
+<br>
+![](https://github.com/Kens3i/Garage-Sales-Data-Cleaning-And-Merging-With-Excel/blob/main/Images/Automotive%20Data%20Cleaning.png?raw=true)
+<br>
+I have taken an example of **Garage Service Sales Data** which consists of **3 sheets** and all the details of the **type of services** the garage has performed and to which cars the services are being performed. One sheet contains the **cost of the type of service**, another contains all the **details of the cars**, including their model no., company name and licence plates and finally in the main sheet the **time and order numbers** of the cars were given. In this mini project, I have **cleaned the raw data** and merged 3 of the sheets into one sheet so that the data is present in one sheet only.
+
+Link: [Click Here](https://github.com/Kens3i/Garage-Sales-Data-Cleaning-And-Merging-With-Excel)
 
 <br>
 <br>
