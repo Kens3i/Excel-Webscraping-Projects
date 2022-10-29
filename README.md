@@ -87,7 +87,7 @@ Link: [Click Here](https://github.com/Kens3i/Clothing-Sales-Data-Cleaning-Using-
 <br>
 <br>
 
-**[Garage Service Sales Data Cleaning + Merging Using Eexcel](https://github.com/Kens3i/Garage-Sales-Data-Cleaning-And-Merging-With-Excel)**
+**[Garage Service Sales Data Cleaning + Merging Using Excel](https://github.com/Kens3i/Garage-Sales-Data-Cleaning-And-Merging-With-Excel)**
 <br>
 ![](https://github.com/Kens3i/Garage-Sales-Data-Cleaning-And-Merging-With-Excel/blob/main/Images/Automotive%20Data%20Cleaning.png?raw=true)
 <br>
