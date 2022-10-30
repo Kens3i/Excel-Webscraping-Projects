@@ -28,7 +28,7 @@ Link: [Click Here](https://github.com/Kens3i/ExcelSalesDashboard)
 <br>
 ![](https://github.com/Kens3i/DynamicTechSalesDashboard/blob/main/display%20gif.gif?raw=true)
 <br>
-This is a **dynamic interactive dashbord** which shows the sales data of a hypothetical company, Nord Tech. I developed this dashboard with the help of **MS Excel 2016** and incorporated **pivot tables**, **filters** and **timeline boxes**. Nord Tech basically sells electronic applications like printer, mouse, keyboard, etc and it has salesmen throughout different regions i.e North, South, East, West.  **Any relevant data added will be updated in the dashboard automatically upon refresh**.
+This is a **dynamic performance dashboard** which shows the sales data of a hypothetical company, Nord Tech. I developed this dashboard with the help of **MS Excel 2016** and incorporated **pivot tables**, **filters** and **timeline boxes**. Nord Tech basically sells electronic applications like printer, mouse, keyboard, etc and it has salesmen throughout different regions i.e North, South, East, and West.  **Any relevant data added will be updated in the dashboard automatically upon refresh**.
 
 Link: [Click Here](https://github.com/Kens3i/DynamicTechSalesDashboard)
 
