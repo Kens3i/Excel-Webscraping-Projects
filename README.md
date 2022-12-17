@@ -78,7 +78,7 @@ Link: [Click Here](https://github.com/Kens3i/IMDB-Scrapper-Using-Selenium-and-Be
 
 **[Clothing Sales Data Cleaning Using Excel Power Query](https://github.com/Kens3i/Clothing-Sales-Data-Cleaning-Using-Excel-Power-Query)**
 <br>
-<a href="https://freeimage.host/"><img src="https://iili.io/Hxq5hLG.png" alt="Hxq5hLG.png" border="0"></a>
+<a href="https://freeimage.host/"><img src="https://iili.io/Hxqan1f.png" alt="Hxqan1f.png" border="0"></a>
 <br>
 I have taken an example of **Clothing Sales Data** which consists of **4 States with 5 Categories**. In this small project, I have **cleaned the raw data with MS Excel** so that anyone can work on it and **make sense of the data**. Here I have used **formulas**, **power-query** and some popular **data-cleaning techniques** to clean the data.
 
@@ -89,7 +89,7 @@ Link: [Click Here](https://github.com/Kens3i/Clothing-Sales-Data-Cleaning-Using-
 
 **[Garage Service Sales Data Cleaning + Merging Using Excel](https://github.com/Kens3i/Garage-Sales-Data-Cleaning-And-Merging-With-Excel)**
 <br>
-<a href="https://freeimage.host/"><img src="https://iili.io/Hxqan1f.png" alt="Hxqan1f.png" border="0"></a>
+<a href="https://freeimage.host/"><img src="https://iili.io/Hxq5hLG.png" alt="Hxq5hLG.png" border="0"></a>
 <br>
 I have taken an example of **Garage Service Sales Data** which consists of **3 sheets** and all the details of the **type of services** the garage has performed and to which cars the services are being performed. One sheet contains the **cost of the type of service**, another contains all the **details of the cars**, including their model no., company name and licence plates and finally in the main sheet the **time and order numbers** of the cars were given. In this mini project, I have **cleaned the raw data** and merged 3 of the sheets into one sheet so that the data is present in one sheet only.
 
