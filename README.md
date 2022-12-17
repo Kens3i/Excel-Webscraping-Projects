@@ -1,6 +1,6 @@
 # Project Portfolio
 
-This Portfolio is a compilation of all the projects I have done for academic, self-learning and hobby purposes.
+This Portfolio is a compilation of some of the projects I have done in the past.
 
 
 ## Projects
