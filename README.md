@@ -78,7 +78,7 @@ Link: [Click Here](https://github.com/Kens3i/IMDB-Scrapper-Using-Selenium-and-Be
 
 **[Clothing Sales Data Cleaning Using Excel Power Query](https://github.com/Kens3i/Clothing-Sales-Data-Cleaning-Using-Excel-Power-Query)**
 <br>
-![](https://github.com/Kens3i/Clothing-Sales-Data-Cleaning-Using-Excel-Power-Query/blob/main/Images/Clothing%20Sales%20Data%20Cleaning.png?raw=true)
+<a href="https://freeimage.host/"><img src="https://iili.io/Hxq5hLG.png" alt="Hxq5hLG.png" border="0"></a>
 <br>
 I have taken an example of **Clothing Sales Data** which consists of **4 States with 5 Categories**. In this small project, I have **cleaned the raw data with MS Excel** so that anyone can work on it and **make sense of the data**. Here I have used **formulas**, **power-query** and some popular **data-cleaning techniques** to clean the data.
 
