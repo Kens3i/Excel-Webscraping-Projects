@@ -14,7 +14,7 @@ This Portfolio is a compilation of some of the projects I have done in the past.
 
 **[Interactive Fashion Sales Dashboard](https://github.com/Kens3i/ExcelSalesDashboard)**
 <br>
-![](https://github.com/Kens3i/ExcelSalesDashboard/blob/main/Display%20Gif.gif?raw=true)
+![](https://media.giphy.com/media/p6o1KQMYfLlupbZwBQ/giphy.gif)
 <br>
 Developed and designed an **interactive sales dashboard** by using data which has **72000+ columns and 11 Rows** using **MS Excel 2016**. The data is about 2 fashion stores named “Fashion Direct” and “Next Look” based in Australia. The data spans from January 2016 to July 2017. **Any relevant data added will be updated in the dashboard automatically upon refresh**.
 
